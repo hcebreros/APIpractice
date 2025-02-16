@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "LegoCollection",
+      "id": "1",
+      "name": "Typewriter",
+      "description": "Typewriter LEGO set, part of the IDEAS collection"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LegoCollection",
+      "id": "2",
+      "name": "Orchid",
+      "description": "Orchid LEGO set, part of the Botanicals collection"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LegoCollection",
+      "id": "3",
+      "name": "Tuxedo Cat",
+      "description": "Tuxedo Cat LEGO set, part of the IDEAS collection"
+    },
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Stephen King",
+      "description": "This LEGO set is phenomenal! It would be even cooler if it was fully functional with ink",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Rapee Sakarik",
+      "description": "Orchids are my life's work and I'm happy that LEGO has included an Orchid in their botanical collection.",
+      "itemId": "2"
+   }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "Haley Cebreros' API",
+    "creator": "hcebreros",
+    "about": "A collection of LEGO sets from my collection",
+    "url": "https://my-json-server.typicode.com/typicode/hcebreros/APIpractice"
+  }
+}
